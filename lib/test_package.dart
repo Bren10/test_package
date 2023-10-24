@@ -10,7 +10,7 @@ class TestPackage {
     print("private method");
   }
 
-  void publicMethodOnBranch() {
+  void publicMethodOnBranch1() {
     print("publicMethodOnBranch");
   }
 }
