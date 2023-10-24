@@ -9,4 +9,8 @@ class TestPackage {
   void _privateMethod() {
     print("private method");
   }
+
+  void publicMethodOnBranch() {
+    print("publicMethodOnBranch");
+  }
 }
